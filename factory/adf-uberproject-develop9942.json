@@ -1,0 +1,15 @@
+{
+	"name": "adf-uberproject-develop9942",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "indiasouthcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "63361f76-5fb8-4ad7-b0a4-e37d93be3bfb",
+		"tenantId": "ef9703dd-6fbe-44e8-9630-cbc9c0429782"
+	}
+}
